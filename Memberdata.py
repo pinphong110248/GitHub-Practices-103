@@ -20,7 +20,8 @@ print(p2.name)
 print(p2.lname)
 print(p2.age)
 
-p3 = Person("Mr." , "Pinphong " , "chusuwan" , 19)
+
+p3 = Person("Mr." , "Pinphong " , "Chusuwan" , 19)
 
 print(p3.prename)
 print(p3.name)
