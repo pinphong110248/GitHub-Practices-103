@@ -20,3 +20,9 @@ print(p2.name)
 print(p2.lname)
 print(p2.age)
 
+p2 = Person("Mr." , "Pinphong " , "chusuwan" , 19)
+
+print(p2.prename)
+print(p2.name)
+print(p2.lname)
+print(p2.age)
